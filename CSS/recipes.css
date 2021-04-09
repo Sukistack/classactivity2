@@ -13,7 +13,7 @@ h1, h2, h3 , h4, h5, h6 {
   .customNav {
     position: fixed;
     width: 100%;
-    background: url("../Images/transparency2.png");
+    background: url("../Images/recipenav.png");
     background-color: red;
     background-size: cover;
     z-index: 10;
